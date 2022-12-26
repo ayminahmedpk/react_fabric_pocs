@@ -1,0 +1,7 @@
+
+
+Get a handle on fabric.js
+Get fabric.js working with react
+
+Get into fabricjs-react
+See if it adds value
