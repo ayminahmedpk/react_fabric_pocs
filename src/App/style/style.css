@@ -8,4 +8,8 @@ html {
   font-family: "Nunito", sans-serif;
   background-color: #272727;
   color: white;
+}
+
+.component > .component {
+  margin: 2rem 0 0 2rem;
 }/*# sourceMappingURL=style.css.map */
