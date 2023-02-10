@@ -1,8 +1,13 @@
 
 
+0.1.1:
+  - Added ctb notes
+
+
 0.1.0:
   - Some basic investigation
   - Set up some lessons
+
 
 0.0.1:
   - Installed fabric
